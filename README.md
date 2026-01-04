@@ -1,5 +1,5 @@
 # 💫 About Me:
- I am Currently a student at Dy Patil Institute of MCA <br>I am Full stack developer <br>
+ 🏆 Achievements & Experience<br>📄 Presented a research paper on NFTs & IP Rights in Blockchain at an international conference<br>🧠 Completed Deloitte Technology Job Simulation<br>🎓 Certified by IIT Bombay Spoken Tutorial<br>🤝 Volunteer at Agile Pune Conference (Industry Exposure & Networking)<br>
 
 
 ## 🌐 Socials:
